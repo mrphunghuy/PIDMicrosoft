@@ -1,0 +1,20 @@
+<xmldoc>
+  <configType configPath="Windows 10\pkeyconfig.xrm-ms" configName="Windows 10 / WinSvr 16 - 19 / Build 18362" />
+  <configType configPath="Windows 10\pkeyconfig-csvlk.xrm-ms" configName="Windows 10 CSVLK" />
+  <configType configPath="Windows8 8.1 emb\pkconfig_win8.1.xrm-ms" configName="Windows 8.1 / WinSvr 2012 R2 / WinEmbedded 8.1" />
+  <configType configPath="Windows8 8.1 emb\pkconfig_win8.1-csvlk.xrm-ms" configName="Windows 8.1 CSVLK" />
+  <configType configPath="Windows8 8.1 emb\pkconfig_winemb8.xrm-ms" configName="Windows 8 / WinSvr 2012 / WinEmbedded 8" />
+  <configType configPath="Office All\pkeyconfig-office_19.xrm-ms" configName="Office 2019 / 365" />
+  <configType configPath="Office All\pkeyconfig-office16Client.xrm-ms" configName="Office 2016" />
+  <configType configPath="Office All\pkeyconfig-Office16KMSHost.xrm-ms" configName="Office 2016 CSVLK" />
+  <configType configPath="Office All\pkconfig_office15.xrm-ms" configName="Office 2013" />
+  <configType configPath="Office All\pkconfig_Office15KMSHost.xrm-ms" configName="Office 2013 CSVLK" />
+  <configType configPath="Office All\pkconfig_office14.xrm-ms" configName="Office 2010" />
+  <configType configPath="WinSvr\pkeyconfig_2019.xrm-ms" configName="Windows Server 2019" />
+  <configType configPath="WinSvr\pkeyconfig_2016.xrm-ms" configName="Windows Server 2016" />
+  <configType configPath="Old Windows\pkconfig_win7.xrm-ms" configName="Windows 7" />
+  <configType configPath="Old Windows\pkconfig_win7_sp1.xrm-ms" configName="Windows 7 SP1" />
+  <configType configPath="Old Windows\pkconfig_vista.xrm-ms" configName="Windows Vista" />
+  <configType configPath="Old Windows\pkconfig_winThinPC.xrm-ms" configName="Thin PC" />
+  <configType configPath="Old Windows\pkconfig_winPosReady7.xrm-ms" configName="Windows PosReady 7" />
+</xmldoc>
